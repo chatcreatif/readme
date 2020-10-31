@@ -1,6 +1,6 @@
 # Quick Eyedropper
 
-[English README](https://github.com/chatcreatif/readme/quick_eyedropper/en/)
+[English README](https://github.com/chatcreatif/readme/quick_eyedropper/en/README.md)
 
 Quick Eyedropperはスクリーン上の色をすばやく取得することができるアプリケーションです。  
 ブラウザやアプリケーション上の色を取得するには、スクリーンキャプチャを取得しペイント等の描画ソフトに貼り付けて色を取得する必要がありましたが、

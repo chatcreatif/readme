@@ -1,6 +1,6 @@
 # Quick Eyedropper
 
-[日本語README](https://github.com/chatcreatif/readme/quick_eyedropper/ja/)
+[日本語README](https://github.com/chatcreatif/readme/quick_eyedropper/ja/README.md)
 
 The Quick Eyedropper is a application that allows you to quickly get the colors on your screen.  
 In order to get the color on the browser or application, it was necessary to take a screen capture and paste it on drawing software such as PAINT to get the color.  
